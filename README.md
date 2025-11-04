@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is Felipe and I'm a Cyber Security analyst</p>
+<p align="left">My name is Felipe and I'm a Cyber Security Analyst</p>
 
 ###
 
