@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is Felipe and I'm a Cyber Security analyst, I am from Brazil</p>
+<p align="left">My name is Felipe and I'm a Cyber Security analyst</p>
 
 ###
 
@@ -38,6 +38,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2001<br>
+📍 Based in São Paulo, Brazil<br>
 📚 I'm currently learning Python for cybersecurity and pentesting<br>
 🎯 Goals: become a professional penetration tester and contribute to open-source security tools<br>
 🎲 Fun fact: I've been unlocking and modding videogames since 2012 🎮
