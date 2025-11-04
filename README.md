@@ -37,7 +37,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since 2001<br>
+📚 I'm currently learning Python for cybersecurity and pentesting<br>
+🎯 Goals: become a professional penetration tester and contribute to open-source security tools<br>
+🎲 Fun fact: I've been unlocking and modding videogames since 2012 🎮
+</p>
 
 ###
 
@@ -57,8 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/CorteF/CorteF/output/snake.svg" alt="Snake animation" />
-
-###
